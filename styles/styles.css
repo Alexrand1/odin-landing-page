@@ -1,0 +1,97 @@
+.nav-header {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header-logo {
+    flex: 1;
+    justify-content: left;
+    color: white;
+    align-items: center;
+    padding: 20px;
+    padding-left: 200px;
+    font-size: 18px;
+}
+
+.nav-header-links {
+    display: flex;
+    justify-content: right;
+    color: white;
+    align-items: center;
+    padding-right: 200px;
+}
+
+.links {
+    flex: 1;
+    padding: 10px;
+}
+
+.main-top {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    gap: 50px;
+}
+
+.main-top-left {
+    flex: 1;
+    padding-left: 200px;
+    padding-top: 50px;
+    border-right: 100px;
+}
+
+.main-top-right {
+    flex: 1;
+    padding-right: 200px;
+    justify-content: right;
+}
+
+.img-box {
+    margin: 50px;
+    background-color: gray;
+    padding: 100px;
+}
+
+.hero-text {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.btn-gen {
+    background-color: #3882F6;
+    color: white;   
+}
+
+.main-middle-header {
+    text-align: center;
+}
+
+.main-middle-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.one {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.two {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.three {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.four {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
